@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translators/KilaChartsView_ja.qm</file>
+        <file>translators/KilaChartsView_zh.qm</file>
+    </qresource>
+</RCC>
